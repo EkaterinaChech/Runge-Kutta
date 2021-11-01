@@ -1,9 +1,10 @@
-import numpy as np
-import config as cfg
-
+from solve import *
 
 def main():
-    pass
+    # print(u_next(0.1, 5, 10))
+    u = calc()
+
+
 
 if __name__ == '__main__':
     main()
